@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%C3%97%20Web3-black?style=for-the-badge&labelColor=1a1a2e&color=00F0FF" />
-  <img src="https://img.shields.io/badge/ROLE-Builder%20%7C%20Degen%20%7C%20Bot%20Maker-black?style=for-the-badge&labelColor=1a1a2e&color=00F0FF" />
-  <img src="https://img.shields.io/badge/STATUS-Always%20Shipping-black?style=for-the-badge&labelColor=1a1a2e&color=00FF88" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%C3%97%20Web3-white?style=for-the-badge&labelColor=1a1a2e&color=0a2647" />
+  <img src="https://img.shields.io/badge/ROLE-Builder%20%7C%20Degen%20%7C%20Bot%20Maker-white?style=for-the-badge&labelColor=1a1a2e&color=0a2647" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Shipping-white?style=for-the-badge&labelColor=1a1a2e&color=144d3c" />
 </div>
 
 ---
