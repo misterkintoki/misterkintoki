@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=FOCUS&message=AI%20×%20Web3&color=00F0FF&style=for-the-badge&labelColor=1a1a2e&logoColor=000000" />
-  <img src="https://img.shields.io/static/v1?label=ROLE&message=Builder%20|%20Degen%20|%20Bot%20Maker&color=00F0FF&style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/static/v1?label=FOCUS&message=AI%20%C3%97%20Web3&color=00F0FF&style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/static/v1?label=ROLE&message=Builder%20%7C%20Degen%20%7C%20Bot%20Maker&color=00F0FF&style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/static/v1?label=STATUS&message=Always%20Shipping&color=00FF88&style=for-the-badge&labelColor=1a1a2e" />
 </div>
 
