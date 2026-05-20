@@ -99,6 +99,12 @@ philosophy: "ship first, optimize later"
   <a href="https://t.me/sombleh"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
+### ☕ Support Me
+
+<div align="center">
+  <a href="https://sociabuzz.com/raguna"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</div>
+
 ---
 
 <div align="center">
