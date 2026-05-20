@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://x.com/0xraguna"><img src="https://img.shields.io/badge/X-@0xraguna-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:geomild675@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/sombleh"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -93,6 +87,16 @@ philosophy: "ship first, optimize later"
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=misterkintoki&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF)
 
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://x.com/0xraguna"><img src="https://img.shields.io/badge/X-@0xraguna-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:geomild675@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/sombleh"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ---
