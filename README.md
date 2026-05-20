@@ -44,17 +44,6 @@ Currently building AI developer tools and exploring the intersection of LLMs × 
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Phreaker** | AI-powered code review platform with security analysis |
-| **TestForge** | Automated test generation using LLM reasoning |
-| **BugHunter** | AI security scanner for vulnerability detection |
-| **Clipz** | AI video generator for content creators |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
